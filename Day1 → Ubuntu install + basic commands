@@ -1,1 +1,16 @@
+- Ubuntu 24.04 LTS installation
+- VMware setup
+- Terminal introduction
 
+Commands:
+pwd
+ls
+mkdir
+cd
+cd ..
+touch
+rm
+rm -r
+
+What I Learned:
+Linux uses a hierarchical file system starting from /
