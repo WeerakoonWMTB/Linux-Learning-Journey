@@ -1,50 +1,45 @@
 # Linux Learning Journey
 
-# Week 1 - Linux Fundamentals
+This repository documents my Linux learning journey as a Computer Networks undergraduate pursuing a career in Cloud Computing, Networking, Cybersecurity, and DevOps.
 
-## Day 1
+## Learning Roadmap
 
-### Objective
+### Week 1
 
-Set up Ubuntu Linux environment and learn basic file system navigation commands.
+* Ubuntu Installation
+* Linux Terminal Basics
+* File and Directory Management
+* Linux File System
 
-### Tasks Completed
+### Week 2
 
-* Installed Ubuntu 24.04 LTS on VMware
-* Opened Terminal
-* Created directories and files
-* Practiced Linux navigation commands
+* Permissions
+* Users and Groups
+* SSH
 
-### Commands Learned
+### Week 3
 
-#### pwd
+* Linux Networking
+* IP Addressing
+* DNS
 
-Displays the current working directory.
+### Future Topics
 
-#### ls
+* Git & GitHub
+* Python
+* AWS Cloud
+* Docker
+* Kubernetes
+* DevOps
 
-Lists files and directories in the current location.
+## Repository Structure
 
-#### mkdir
+Week1/
+├── Day1.md
+├── Day2.md
+└── Day3.md
 
-Creates a new directory.
+## Goal
 
-#### cd
+Build a strong Linux foundation for Cloud Engineering, Networking, Cybersecurity, and DevOps.
 
-Changes the current directory.
-
-#### cd ..
-
-Moves one directory up.
-
-#### touch
-
-Creates an empty file.
-
-#### rm
-
-Removes a file.
-
-#### rm -r
-
-Removes a directory and its contents recursively.
