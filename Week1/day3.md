@@ -10,6 +10,36 @@ Understand the Linux file system structure and learn the purpose of important di
 * Learned about important system directories
 * Compared Linux file system structure with Windows
 
+## Practical Tasks
+
+Executed:
+
+cd /
+ls
+
+cd /etc
+pwd
+
+cd /var
+pwd
+
+cd /usr
+pwd
+
+cd ~
+
+pwd
+
+ls /
+
+Observed important Linux directories:
+
+- /etc
+- /var
+- /home
+- /usr
+- /bin
+
 ## Commands Learned
 
 ### pwd
