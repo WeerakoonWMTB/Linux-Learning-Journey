@@ -18,6 +18,8 @@ systemctl status ssh
 
 hostname -I
 
+ssh localhost
+
 ## Concepts Learned
 
 ### SSH
