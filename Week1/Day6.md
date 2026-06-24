@@ -32,6 +32,35 @@ Used to connect to remote systems.
 
 Accepts incoming SSH connections from other systems.
 
+## Practical Tasks
+
+Installed OpenSSH Server
+
+sudo apt install openssh-server -y
+
+Started SSH Service
+
+sudo systemctl start ssh
+
+Verified SSH Status
+
+systemctl status ssh
+
+Connected to Localhost Using SSH
+
+ssh localhost
+
+Accepted SSH Fingerprint
+
+Successfully Logged In Using SSH
+
+## Key Learning
+
+* SSH provides secure remote access to Linux systems.
+* SSH commonly uses TCP Port 22.
+* SSH is essential for Cloud Computing, Networking, DevOps and Cybersecurity.
+* OpenSSH Server allows remote users to connect to a Linux machine.
+
 ## What I Learned
 
 * SSH is widely used in Linux administration.
